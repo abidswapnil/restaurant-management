@@ -11,9 +11,6 @@
     {
       echo "<script>window.location.href='http://localhost/restaurant/customer/food/customer.php';</script>";
     }
-
-  
-
 ?>
 <!DOCTYPE html>
 <html>
@@ -163,8 +160,6 @@
 
               	 	echo "<script>window.location.href='http://localhost/restaurant/customer/account_setting.php';</script>";
               	 }
-
-
               	?>
               <form action="" method="POST">
             <label>Name:</label>
@@ -211,18 +206,13 @@
 						   	  	}
 
 					   	  	 }
-
-					   	  	 
-					   	  	 
 					   	  }
 					   	  else
 					   	  {
 					   	  	echo "<div class='alert alert-danger'>*password miss-matched. <strong>try again</strong></div>";
 					   	  }
 					   }
-
 					 ?>
-
 					<hr>
 					<small class="float-right text-muted">Change your password with a secure one.</small>
 				   </tr>
@@ -241,15 +231,12 @@
 				   </tr>
 				 </form>
 				</table>
-		
 		</div>
 		<footer class="site-footer h-25">
     	<div class="container">
     		<div class="row">
-    			
     		</div>
     		<div class="bottom-footer">
-
     			<div class="col-md-5">
     				<h4 class="text-warning">Mr. Cheese</h4>
     				© Copyright All right reserved 2019.
@@ -257,7 +244,6 @@
     				<address>
     					Beside khan bahadur ahsanullah hall gate, Khulna university
     				</address>
-
     			</div>
     			<div class="col-md-7">
     				<ul class="footer-nav">
@@ -266,19 +252,14 @@
     					<li><a href="">Contact</a></li>
     				</ul>
     			</div>
-    			
     		</div>
     	</div>
-    	
-    	
     </footer>
 
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <script src="bootstrap.min.js"></script>
-
-
+  <script src="bootstrap.min.js"></script>
 
 </body>
 </html>
